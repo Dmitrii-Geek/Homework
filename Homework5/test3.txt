@@ -1,0 +1,4 @@
+Ivanov 15000
+Petrov 25000
+Sidorov 20000
+Zaycev 48000
